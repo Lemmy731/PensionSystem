@@ -89,7 +89,7 @@ Visual Studio 2022 / VS Code
 
 6. Clone the Repository
 
-git clone https://github.com/your-username/PensionManagement.git
+git clone https://github.com/Lemmy731/PensionSystem.git
 cd PensionManagement
 
 7. Setup Database
