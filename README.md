@@ -1,23 +1,23 @@
 Pension Management System
 
-📌 Project Overview
+ Project Overview
 
 The Pension Management System is a simplified contribution management system designed to handle pension contributions, member management, and benefit calculations. Built using .NET Core 8, Entity Framework Core, and SQL Server, it follows Clean Architecture principles, Domain-Driven Design (DDD), and implements background job processing with Hangfire.
 
-📂 Folder Structure
+  Folder Structure
 
-📂 PensionManagement
- ┣ 📂 Presentation (Controllers & Middleware)
- ┣ 📂 Application (Business Logic, Services, DTOs)
- ┣ 📂 Domain (Entities, Validators, Interfaces)
- ┣ 📂 Infrastructure (Data Access, EF Core, Repositories)
- ┣ 📂 BackgroundJobs (Hangfire Jobs)
- ┣ 📂 Tests (Unit & Integration Tests)
- ┣ 📄 README.md
- ┣ 📄 appsettings.json
- ┣ 📄 PensionManagement.sln
+  PensionManagement
+      Presentation (Controllers & Middleware)
+      Application (Business Logic, Services, DTOs)
+      Domain (Entities, Validators, Interfaces)
+      Infrastructure (Data Access, EF Core, Repositories)
+      BackgroundJobs (Hangfire Jobs)
+      Tests (Unit & Integration Tests)
+      README.md
+      appsettings.json
+      PensionManagement.sln
 
-🛠️ Tech Stack
+  Tech Stack
 
 .NET Core 8.0 (Web API)
 
@@ -33,51 +33,51 @@ xUnit / Moq (Unit Testing)
 
 Swagger / Postman (API Documentation & Testing)
 
-🚀 Features
+  Features
 
 1. Member Management API
 
-✅ Register a new pension member
+  Register a new pension member
 
-✅ Update member details
+  Update member details
 
-✅ Retrieve member information
+  Retrieve member information
 
-✅ Soft delete member
+  Soft delete member
 
 2. Contribution & Benefit Processing
 
-✅ Monthly & Voluntary contributions
+   Monthly & Voluntary contributions
 
-✅ Enforce one monthly contribution per month
+   Enforce one monthly contribution per month
 
-✅ Contribution statements generation
+   Contribution statements generation
 
-✅ Basic benefit calculations
+   Basic benefit calculations
 
 3. Business Rules & Background Processing
 
-✅ Monthly contribution validation
+   Monthly contribution validation
 
-✅ Benefit eligibility checks
+   Benefit eligibility checks
 
-✅ Scheduled jobs for interest calculations & statements
+   Scheduled jobs for interest calculations & statements
 
-✅ Retry mechanism for failed transactions
+   Retry mechanism for failed transactions
 
 4. API Features
 
-✅ RESTful API design
+   RESTful API design
 
-✅ Proper HTTP status codes
+   Proper HTTP status codes
 
-✅ Input validation with FluentValidation
+   Input validation with FluentValidation
 
-✅ API versioning support
+   API versioning support
 
-⚙️ Installation & Setup
+5. Installation & Setup
 
-1. Prerequisites
+ Prerequisites
 
 Ensure you have the following installed:
 
@@ -87,12 +87,12 @@ SQL Server
 
 Visual Studio 2022 / VS Code
 
-2. Clone the Repository
+6. Clone the Repository
 
 git clone https://github.com/your-username/PensionManagement.git
 cd PensionManagement
 
-3. Setup Database
+7. Setup Database
 
 Update appsettings.json with your SQL Server connection string:
 
@@ -104,19 +104,20 @@ Run Entity Framework Core migrations:
 
 dotnet ef database update
 
-4. Run the Project
+8. Run the Project
 
 dotnet run --project API
 
-5. Access Swagger API Documentation
+9. Access Swagger API Documentation
 
 Navigate to:
 
 http://localhost:5000/swagger
 
-🏗️ Architecture & Design Decisions
 
-1. Clean Architecture Implementation
+10. Architecture & Design Decisions
+
+Clean Architecture Implementation
 
 Domain Layer: Contains domain models, interfaces, and validators.
 
@@ -126,15 +127,15 @@ Infrastructure Layer: Handles data access and repositories.
 
 Presentation Layer: Contains controllers and middleware.
 
-2. Repository Pattern
+11. Repository Pattern
 
 Data access logic is abstracted into repositories to promote testability and maintainability.
 
-3. Dependency Injection
+12. Dependency Injection
 
 Services and repositories are injected into controllers to enhance modularity and flexibility.
 
-4. Background Job Processing with Hangfire
+13. Background Job Processing with Hangfire
 
 Automated contribution validation
 
@@ -142,7 +143,7 @@ Monthly benefit calculations
 
 Error-handling and retry mechanisms
 
-📌 API Endpoints
+14. API Endpoints
 
 Member Management
 
@@ -216,7 +217,7 @@ GET
 
 Calculate benefits for a member
 
-🛠️ Unit Testing
+15, Unit Testing
 
 Run tests with:
 
