@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\bin\Debug\net8.0\PensionManagementApplication.deps.json
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\bin\Debug\net8.0\PensionManagementApplication.dll
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\bin\Debug\net8.0\PensionManagementApplication.pdb
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\obj\Debug\net8.0\PensionManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\obj\Debug\net8.0\PensionManagementApplication.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\obj\Debug\net8.0\PensionManagementApplication.AssemblyInfo.cs
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\obj\Debug\net8.0\PensionManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\obj\Debug\net8.0\PensionManagementApplication.sourcelink.json
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\obj\Debug\net8.0\PensionManagementApplication.dll
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\obj\Debug\net8.0\refint\PensionManagementApplication.dll
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\obj\Debug\net8.0\PensionManagementApplication.pdb
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementApplication\obj\Debug\net8.0\ref\PensionManagementApplication.dll

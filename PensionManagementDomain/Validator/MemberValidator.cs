@@ -10,6 +10,7 @@ namespace PensionManagementDomain.Validator
 {
     public class MemberValidator: AbstractValidator<Member>
     {
+        //member validator
         public MemberValidator() 
         {
             RuleFor(m => m.FirstName).NotEmpty();

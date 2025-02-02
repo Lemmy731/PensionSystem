@@ -10,6 +10,7 @@ namespace PensionManagementDomain.Validator
 {
     public class BenefitValidator: AbstractValidator<Benefit>
     {
+        //benefit validator
         public BenefitValidator()
         {
             RuleFor(b => b.MemberId)

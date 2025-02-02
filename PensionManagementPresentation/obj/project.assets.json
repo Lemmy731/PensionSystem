@@ -233,6 +233,19 @@
           }
         }
       },
+      "MathNet.Numerics/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Antiforgery/2.1.0": {
         "type": "package",
         "dependencies": {
@@ -4043,6 +4056,36 @@
             "related": ".xml"
           }
         }
+      },
+      "PensionManagementDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FluentValidation": "8.0.0",
+          "MathNet.Numerics": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PensionManagementDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PensionManagementDomain.dll": {}
+        }
+      },
+      "PensionManagementInfrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
+          "PensionManagementDomain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PensionManagementInfrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PensionManagementInfrastructure.dll": {}
+        }
       }
     }
   },
@@ -4341,6 +4384,28 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "MathNet.Numerics/5.0.0": {
+      "sha512": "pg1W2VwaEQMAiTpGK840hZgzavnqjlCMTVSbtVCXVyT+7AX4mc1o89SPv4TBlAjhgCOo9c1Y+jZ5m3ti2YgGgA==",
+      "type": "package",
+      "path": "mathnet.numerics/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net461/MathNet.Numerics.dll",
+        "lib/net461/MathNet.Numerics.xml",
+        "lib/net48/MathNet.Numerics.dll",
+        "lib/net48/MathNet.Numerics.xml",
+        "lib/net5.0/MathNet.Numerics.dll",
+        "lib/net5.0/MathNet.Numerics.xml",
+        "lib/net6.0/MathNet.Numerics.dll",
+        "lib/net6.0/MathNet.Numerics.xml",
+        "lib/netstandard2.0/MathNet.Numerics.dll",
+        "lib/netstandard2.0/MathNet.Numerics.xml",
+        "mathnet.numerics.5.0.0.nupkg.sha512",
+        "mathnet.numerics.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Antiforgery/2.1.0": {
@@ -11381,6 +11446,16 @@
         "xunit.extensibility.execution.2.9.3.nupkg.sha512",
         "xunit.extensibility.execution.nuspec"
       ]
+    },
+    "PensionManagementDomain/1.0.0": {
+      "type": "project",
+      "path": "../PensionManagementDomain/PensionManagementDomain.csproj",
+      "msbuildProject": "../PensionManagementDomain/PensionManagementDomain.csproj"
+    },
+    "PensionManagementInfrastructure/1.0.0": {
+      "type": "project",
+      "path": "../PensionManagementInfrastructure/PensionManagementInfrastructure.csproj",
+      "msbuildProject": "../PensionManagementInfrastructure/PensionManagementInfrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11392,6 +11467,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0",
       "Moq >= 4.20.72",
+      "PensionManagementInfrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0",
       "xunit >= 2.9.3"
     ]
@@ -11423,7 +11499,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

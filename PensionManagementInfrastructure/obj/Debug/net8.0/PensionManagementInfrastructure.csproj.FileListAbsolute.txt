@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\bin\Debug\net8.0\PensionManagementInfrastructure.deps.json
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\bin\Debug\net8.0\PensionManagementInfrastructure.dll
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\bin\Debug\net8.0\PensionManagementInfrastructure.pdb
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\bin\Debug\net8.0\PensionManagementDomain.dll
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\bin\Debug\net8.0\PensionManagementDomain.pdb
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\PensionManagementInfrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\PensionManagementInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\PensionManagementInfrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\PensionManagementInfrastructure.AssemblyInfo.cs
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\PensionManagementInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\PensionManagementInfrastructure.sourcelink.json
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\PensionM.C5F93174.Up2Date
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\PensionManagementInfrastructure.dll
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\refint\PensionManagementInfrastructure.dll
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\PensionManagementInfrastructure.pdb
+C:\Users\hp\source\repos\PensionManagementPresentation\PensionManagementInfrastructure\obj\Debug\net8.0\ref\PensionManagementInfrastructure.dll

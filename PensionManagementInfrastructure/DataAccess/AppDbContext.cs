@@ -22,9 +22,31 @@ namespace PensionManagementInfrastructure.DataAccess
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Member>().HasKey(x => x.Id);
+            // Member to contribution
+            modelBuilder.Entity<Member>()
+                .HasMany(m => m.Contributions)
+                .WithOne(c => c.Member)
+                .HasForeignKey(c => c.MemberId);
 
+            // Member to benefit
+            modelBuilder.Entity<Member>()
+                .HasOne(m => m.Benefit)
+                .WithOne(b => b.Member)
+                .HasForeignKey<Benefit>(b => b.MemberId);
+
+            modelBuilder.Entity<Benefit>()
+            .Property(b => b.Amount)
+            .HasColumnType("decimal(18,4)");
+
+            modelBuilder.Entity<Contribution>()
+                .Property(c => c.Amount)
+                .HasColumnType("decimal(18,4)");
+
+            modelBuilder.Entity<Member>()
+                .Property(m => m.TotalContribution)
+                .HasColumnType("decimal(18,4)");
+
+            base.OnModelCreating(modelBuilder);
         }
-
     }
 }

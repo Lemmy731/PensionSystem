@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MathNet.Numerics;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -9,22 +10,22 @@ namespace PensionManagementDomain.Entity
 {
     public class Benefit
     {
+        //benefit entity
         [Key]
-        public int Id { get; set; }
-        public int MemberId { get; set; } // Foreign key to Member entity
-        public BenefitType Type { get; set; } // Enum for benefit types
-        public DateTime CalculationDate { get; set; } = DateTime.UtcNow; // When the benefit was calculated
-        public bool EligibilityStatus { get; set; } // Is member eligible for benefit?
-        public decimal Amount { get; set; } // Benefit amount
+        public int BenefitId { get; set; }
+        public int MemberId { get; set; } 
+        public BenefitType Type { get; set; } 
+        public DateTime CalculationDate { get; set; } = DateTime.UtcNow; 
+        public bool EligibilityStatus { get; set; }
+        public decimal Amount { get; set; } 
 
-        public Member Member { get; set; } // Navigation property
+        public Member Member { get; set; } 
     }
 
     public enum BenefitType
     {
-        Pension,
-        Withdrawal,
-        Other
+        Monthly,
+        LumpSum
     }
 }
 

@@ -9,10 +9,11 @@ namespace PensionManagementDomain.Entity
 {
     public class Employer
     {
+        //employer entity
         [Key]
-        public int Id { get; set; }
+        public int EmployerId { get; set; }
         public string CompanyName { get; set; }
-        public string RegistrationNumber { get; set; } // Business Registration Number
-        public bool IsActive { get; set; } = true; // Employer status (Active/Inactive)
+        public string RegistrationNumber { get; set; } 
+        public bool IsActive { get; set; } = true; 
     }
 }

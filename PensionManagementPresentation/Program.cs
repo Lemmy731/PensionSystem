@@ -1,6 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using PensionManagementInfrastructure.DataAccess;
+using System;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+//connection string
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer
+(builder.Configuration.GetConnectionString("DefaultConnectionString")));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
