@@ -119,6 +119,12 @@ namespace PensionManagementInfrastructure.Migrations
                     b.Property<int>("Age")
                         .HasColumnType("int");
 
+                    b.Property<int>("ContributionMonths")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ContributionMonthsCount")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("DateOfBirth")
                         .HasColumnType("datetime2");
 
@@ -131,6 +137,9 @@ namespace PensionManagementInfrastructure.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsEligibleForBenefit")
                         .HasColumnType("bit");
 
                     b.Property<string>("LastName")

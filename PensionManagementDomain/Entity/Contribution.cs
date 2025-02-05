@@ -16,10 +16,9 @@ namespace PensionManagementDomain.Entity
         public int MemberId { get; set; } 
         public ContributionType Type { get; set; } 
         public decimal Amount { get; set; }
-        public DateTime ContributionDate { get; set; } 
-        public string ReferenceNumber { get; set; } 
-
-        public Member Member { get; set; } 
+        public DateTime ContributionDate { get; set; }  = DateTime.Now;
+        public string ReferenceNumber { get; set; }
+        public Member Member { get; set; }  
     }
 
     public enum ContributionType

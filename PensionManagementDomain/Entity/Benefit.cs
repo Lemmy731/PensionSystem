@@ -1,5 +1,4 @@
-﻿using MathNet.Numerics;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -15,7 +14,7 @@ namespace PensionManagementDomain.Entity
         public int BenefitId { get; set; }
         public int MemberId { get; set; } 
         public BenefitType Type { get; set; } 
-        public DateTime CalculationDate { get; set; } = DateTime.UtcNow; 
+        public DateTime CalculationDate { get; set; } = DateTime.Now; 
         public bool EligibilityStatus { get; set; }
         public decimal Amount { get; set; } 
 

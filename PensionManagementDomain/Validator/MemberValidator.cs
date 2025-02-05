@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 
 namespace PensionManagementDomain.Validator
 {
-    public class MemberValidator: AbstractValidator<Member>
+    public class MemberValidator : AbstractValidator<Member>
     {
         //member validator
-        public MemberValidator() 
+        public MemberValidator()
         {
             RuleFor(m => m.FirstName).NotEmpty();
             RuleFor(m => m.LastName).NotEmpty();
@@ -20,7 +20,7 @@ namespace PensionManagementDomain.Validator
                 .WithMessage("Age must be between 18 and 70 years.");
             RuleFor(m => m.Email).EmailAddress();
             RuleFor(m => m.PhoneNumber).Matches(@"^\+?[1-9][0-9]{7,14}$").WithMessage("Invalid phone number format.");
-        }    
+        }
 
     }
 }

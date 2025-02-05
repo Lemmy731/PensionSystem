@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PensionManagementDomain.Validator
 {
-    public class ContributionValidator: AbstractValidator<Contribution>
+    public class ContributionValidator : AbstractValidator<Contribution>
     {
         //contribution validator
 
