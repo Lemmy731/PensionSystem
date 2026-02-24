@@ -3,24 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|solutionrelative:pensionmanagementpresentation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|solutionrelative:pensionmanagementpresentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementinfrastructure\\contribution\\validatecontribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|solutionrelative:pensionmanagementinfrastructure\\contribution\\validatecontribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|solutionrelative:pensionmanagementpresentation\\controllers\\employercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\dto\\memeberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\dto\\memeberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\dto\\employerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\dto\\employerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\dto\\contributiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\dto\\contributiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementapplication\\service\\memeberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|solutionrelative:pensionmanagementapplication\\service\\memeberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementapplication\\service\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|solutionrelative:pensionmanagementapplication\\service\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementapplication\\service\\contributionprocessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|solutionrelative:pensionmanagementapplication\\service\\contributionprocessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|solutionrelative:pensionmanagementpresentation\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\controllers\\contributionprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|solutionrelative:pensionmanagementpresentation\\controllers\\contributionprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementinfrastructure\\repository\\employerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|solutionrelative:pensionmanagementinfrastructure\\repository\\employerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementinfrastructure\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|solutionrelative:pensionmanagementinfrastructure\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|solutionrelative:pensionmanagementpresentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|solutionrelative:pensionmanagementpresentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementinfrastructure\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|solutionrelative:pensionmanagementinfrastructure\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\entity\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\entity\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\entity\\benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\entity\\benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\entity\\contribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\entity\\contribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\pensionmanagementpresentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -35,44 +91,12 @@
       "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\validator\\employervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\entity\\contribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\entity\\contribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\entity\\benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\entity\\benefit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\dto\\contributiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\dto\\contributiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\jobconfig\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|solutionrelative:pensionmanagementpresentation\\jobconfig\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementpresentation\\helpers\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5070D15E-48F9-42CE-A45E-B2C52B320F06}|PensionManagementPresentation\\PensionManagementPresentation.csproj|solutionrelative:pensionmanagementpresentation\\helpers\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementinfrastructure\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|solutionrelative:pensionmanagementinfrastructure\\repository\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementinfrastructure\\repository\\employerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|solutionrelative:pensionmanagementinfrastructure\\repository\\employerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementinfrastructure\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|solutionrelative:pensionmanagementinfrastructure\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementinfrastructure\\contribution\\validatecontribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|solutionrelative:pensionmanagementinfrastructure\\contribution\\validatecontribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF74306A-D643-406F-9208-0B13681C06A7}|PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementinfrastructure\\contribution\\ivalidatecontribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,30 +163,6 @@
       "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\validator\\benefitvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\entity\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\entity\\employer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\dto\\memeberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\dto\\memeberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementdomain\\dto\\employerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95BF6EAD-51EF-4ECF-89C4-7E8C189B956B}|PensionManagementDomain\\PensionManagementDomain.csproj|solutionrelative:pensionmanagementdomain\\dto\\employerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementapplication\\service\\memeberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|solutionrelative:pensionmanagementapplication\\service\\memeberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementapplication\\service\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|solutionrelative:pensionmanagementapplication\\service\\employerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementapplication\\service\\contributionprocessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|solutionrelative:pensionmanagementapplication\\service\\contributionprocessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|c:\\users\\hp\\source\\repos\\pensionmanagementpresentation\\pensionmanagementapplication\\iservice\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0BC948A-67C4-4074-8F55-13EA3B5F8300}|PensionManagementApplication\\PensionManagementApplication.csproj|solutionrelative:pensionmanagementapplication\\iservice\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -214,7 +214,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 244,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -243,71 +243,236 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EmployerDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\EmployerDto.cs",
+              "RelativeDocumentMoniker": "PensionManagementDomain\\DTO\\EmployerDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\EmployerDto.cs",
+              "RelativeToolTip": "PensionManagementDomain\\DTO\\EmployerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:26:12.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployerController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Controllers\\EmployerController.cs",
+              "RelativeDocumentMoniker": "PensionManagementPresentation\\Controllers\\EmployerController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Controllers\\EmployerController.cs",
+              "RelativeToolTip": "PensionManagementPresentation\\Controllers\\EmployerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:52:02.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidateContribution.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\ValidateContribution.cs",
+              "RelativeDocumentMoniker": "PensionManagementInfrastructure\\contribution\\ValidateContribution.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\ValidateContribution.cs",
+              "RelativeToolTip": "PensionManagementInfrastructure\\contribution\\ValidateContribution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:41:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemeberService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\MemeberService.cs",
+              "RelativeDocumentMoniker": "PensionManagementApplication\\Service\\MemeberService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\MemeberService.cs",
+              "RelativeToolTip": "PensionManagementApplication\\Service\\MemeberService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:37:29.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Program.cs",
               "RelativeDocumentMoniker": "PensionManagementPresentation\\Program.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Program.cs",
               "RelativeToolTip": "PensionManagementPresentation\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T20:01:24.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployerController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Controllers\\EmployerController.cs",
-              "RelativeDocumentMoniker": "PensionManagementPresentation\\Controllers\\EmployerController.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Controllers\\EmployerController.cs",
-              "RelativeToolTip": "PensionManagementPresentation\\Controllers\\EmployerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ContributionDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\ContributionDto.cs",
+              "RelativeDocumentMoniker": "PensionManagementDomain\\DTO\\ContributionDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\ContributionDto.cs",
+              "RelativeToolTip": "PensionManagementDomain\\DTO\\ContributionDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:52:02.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T23:59:34.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "MemeberDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\MemeberDto.cs",
+              "RelativeDocumentMoniker": "PensionManagementDomain\\DTO\\MemeberDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\MemeberDto.cs",
+              "RelativeToolTip": "PensionManagementDomain\\DTO\\MemeberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:30:25.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployerService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\EmployerService.cs",
+              "RelativeDocumentMoniker": "PensionManagementApplication\\Service\\EmployerService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\EmployerService.cs",
+              "RelativeToolTip": "PensionManagementApplication\\Service\\EmployerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:32:54.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContributionProcessService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\ContributionProcessService.cs",
+              "RelativeDocumentMoniker": "PensionManagementApplication\\Service\\ContributionProcessService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\ContributionProcessService.cs",
+              "RelativeToolTip": "PensionManagementApplication\\Service\\ContributionProcessService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:22:32.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MemberController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Controllers\\MemberController.cs",
               "RelativeDocumentMoniker": "PensionManagementPresentation\\Controllers\\MemberController.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Controllers\\MemberController.cs",
               "RelativeToolTip": "PensionManagementPresentation\\Controllers\\MemberController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T08:17:43.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T08:17:43.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PensionManagementInfrastructure\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "PensionManagementInfrastructure\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:42:07.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\appsettings.json",
               "RelativeDocumentMoniker": "PensionManagementPresentation\\appsettings.json",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\appsettings.json",
               "RelativeToolTip": "PensionManagementPresentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-31T21:30:28.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T21:30:28.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ContributionProcessController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Controllers\\ContributionProcessController.cs",
               "RelativeDocumentMoniker": "PensionManagementPresentation\\Controllers\\ContributionProcessController.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Controllers\\ContributionProcessController.cs",
               "RelativeToolTip": "PensionManagementPresentation\\Controllers\\ContributionProcessController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T06:42:19.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T06:42:19.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\Repository\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "PensionManagementInfrastructure\\Repository\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\Repository\\MemberRepository.cs",
+              "RelativeToolTip": "PensionManagementInfrastructure\\Repository\\MemberRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:36:00.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\Repository\\EmployerRepository.cs",
+              "RelativeDocumentMoniker": "PensionManagementInfrastructure\\Repository\\EmployerRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\Repository\\EmployerRepository.cs",
+              "RelativeToolTip": "PensionManagementInfrastructure\\Repository\\EmployerRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:23:35.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Member.cs",
+              "RelativeDocumentMoniker": "PensionManagementDomain\\Entity\\Member.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Member.cs",
+              "RelativeToolTip": "PensionManagementDomain\\Entity\\Member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:30:01.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Employer.cs",
+              "RelativeDocumentMoniker": "PensionManagementDomain\\Entity\\Employer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Employer.cs",
+              "RelativeToolTip": "PensionManagementDomain\\Entity\\Employer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:34:52.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Contribution.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Contribution.cs",
+              "RelativeDocumentMoniker": "PensionManagementDomain\\Entity\\Contribution.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Contribution.cs",
+              "RelativeToolTip": "PensionManagementDomain\\Entity\\Contribution.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:26:36.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Benefit.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Benefit.cs",
+              "RelativeDocumentMoniker": "PensionManagementDomain\\Entity\\Benefit.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Benefit.cs",
+              "RelativeToolTip": "PensionManagementDomain\\Entity\\Benefit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:38:41.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "PensionManagementPresentation.csproj",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\PensionManagementPresentation.csproj",
               "RelativeDocumentMoniker": "PensionManagementPresentation\\PensionManagementPresentation.csproj",
@@ -315,12 +480,11 @@
               "RelativeToolTip": "PensionManagementPresentation\\PensionManagementPresentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T21:53:51.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T21:53:51.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "PensionManagementPresentation.http",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\PensionManagementPresentation.http",
               "RelativeDocumentMoniker": "PensionManagementPresentation\\PensionManagementPresentation.http",
@@ -332,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "EmployerValidator.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Validator\\EmployerValidator.cs",
               "RelativeDocumentMoniker": "PensionManagementDomain\\Validator\\EmployerValidator.cs",
@@ -356,55 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Contribution.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Contribution.cs",
-              "RelativeDocumentMoniker": "PensionManagementDomain\\Entity\\Contribution.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Contribution.cs",
-              "RelativeToolTip": "PensionManagementDomain\\Entity\\Contribution.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T06:26:36.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Member.cs",
-              "RelativeDocumentMoniker": "PensionManagementDomain\\Entity\\Member.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Member.cs",
-              "RelativeToolTip": "PensionManagementDomain\\Entity\\Member.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T05:30:01.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Benefit.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Benefit.cs",
-              "RelativeDocumentMoniker": "PensionManagementDomain\\Entity\\Benefit.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Benefit.cs",
-              "RelativeToolTip": "PensionManagementDomain\\Entity\\Benefit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T06:38:41.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ContributionDto.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\ContributionDto.cs",
-              "RelativeDocumentMoniker": "PensionManagementDomain\\DTO\\ContributionDto.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\ContributionDto.cs",
-              "RelativeToolTip": "PensionManagementDomain\\DTO\\ContributionDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T23:59:34.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\JobConfig\\Config.cs",
               "RelativeDocumentMoniker": "PensionManagementPresentation\\JobConfig\\Config.cs",
@@ -416,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "ErrorHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementPresentation\\Helpers\\ErrorHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "PensionManagementPresentation\\Helpers\\ErrorHandlingMiddleware.cs",
@@ -428,55 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\Repository\\MemberRepository.cs",
-              "RelativeDocumentMoniker": "PensionManagementInfrastructure\\Repository\\MemberRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\Repository\\MemberRepository.cs",
-              "RelativeToolTip": "PensionManagementInfrastructure\\Repository\\MemberRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T08:36:00.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EmployerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\Repository\\EmployerRepository.cs",
-              "RelativeDocumentMoniker": "PensionManagementInfrastructure\\Repository\\EmployerRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\Repository\\EmployerRepository.cs",
-              "RelativeToolTip": "PensionManagementInfrastructure\\Repository\\EmployerRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T10:23:35.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\DataAccess\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PensionManagementInfrastructure\\DataAccess\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\DataAccess\\AppDbContext.cs",
-              "RelativeToolTip": "PensionManagementInfrastructure\\DataAccess\\AppDbContext.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T07:42:07.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ValidateContribution.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\ValidateContribution.cs",
-              "RelativeDocumentMoniker": "PensionManagementInfrastructure\\contribution\\ValidateContribution.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\ValidateContribution.cs",
-              "RelativeToolTip": "PensionManagementInfrastructure\\contribution\\ValidateContribution.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T00:41:50.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "IValidateContribution.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\IValidateContribution.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\contribution\\IValidateContribution.cs",
@@ -488,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "IGenerateStatement.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\IGenerateStatement.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\contribution\\IGenerateStatement.cs",
@@ -500,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "IContributionStatement.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\IContributionStatement.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\contribution\\IContributionStatement.cs",
@@ -512,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "IContributionProcess.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\IContributionProcess.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\contribution\\IContributionProcess.cs",
@@ -524,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "GenerateStatement.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\GenerateStatement.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\contribution\\GenerateStatement.cs",
@@ -536,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "ContributionStatement.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\ContributionStatement.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\contribution\\ContributionStatement.cs",
@@ -548,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "ContributionProcess.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\contribution\\ContributionProcess.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\contribution\\ContributionProcess.cs",
@@ -560,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "MonthlyInterest.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\CalculatessBenfit\\MonthlyInterest.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\CalculatessBenfit\\MonthlyInterest.cs",
@@ -572,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "IMonthlyInterest.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\CalculatessBenfit\\IMonthlyInterest.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\CalculatessBenfit\\IMonthlyInterest.cs",
@@ -584,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "IBenefitEligiblity.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\CalculatessBenfit\\IBenefitEligiblity.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\CalculatessBenfit\\IBenefitEligiblity.cs",
@@ -596,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "IBenefitCalculation.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\CalculatessBenfit\\IBenefitCalculation.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\CalculatessBenfit\\IBenefitCalculation.cs",
@@ -608,7 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "BenefitEligiblity.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\CalculatessBenfit\\BenefitEligiblity.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\CalculatessBenfit\\BenefitEligiblity.cs",
@@ -620,7 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "BenefitCalculation.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementInfrastructure\\CalculatessBenfit\\BenefitCalculation.cs",
               "RelativeDocumentMoniker": "PensionManagementInfrastructure\\CalculatessBenfit\\BenefitCalculation.cs",
@@ -632,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "MemberValidator.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Validator\\MemberValidator.cs",
               "RelativeDocumentMoniker": "PensionManagementDomain\\Validator\\MemberValidator.cs",
@@ -644,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "ContributionValidator.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Validator\\ContributionValidator.cs",
               "RelativeDocumentMoniker": "PensionManagementDomain\\Validator\\ContributionValidator.cs",
@@ -656,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "BenefitValidator.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Validator\\BenefitValidator.cs",
               "RelativeDocumentMoniker": "PensionManagementDomain\\Validator\\BenefitValidator.cs",
@@ -665,78 +733,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T07:34:18.515Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Employer.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Employer.cs",
-              "RelativeDocumentMoniker": "PensionManagementDomain\\Entity\\Employer.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\Entity\\Employer.cs",
-              "RelativeToolTip": "PensionManagementDomain\\Entity\\Employer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T06:34:52.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "MemeberDto.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\MemeberDto.cs",
-              "RelativeDocumentMoniker": "PensionManagementDomain\\DTO\\MemeberDto.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\MemeberDto.cs",
-              "RelativeToolTip": "PensionManagementDomain\\DTO\\MemeberDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T08:30:25.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "EmployerDto.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\EmployerDto.cs",
-              "RelativeDocumentMoniker": "PensionManagementDomain\\DTO\\EmployerDto.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementDomain\\DTO\\EmployerDto.cs",
-              "RelativeToolTip": "PensionManagementDomain\\DTO\\EmployerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T10:26:12.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "MemeberService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\MemeberService.cs",
-              "RelativeDocumentMoniker": "PensionManagementApplication\\Service\\MemeberService.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\MemeberService.cs",
-              "RelativeToolTip": "PensionManagementApplication\\Service\\MemeberService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T08:37:29.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "EmployerService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\EmployerService.cs",
-              "RelativeDocumentMoniker": "PensionManagementApplication\\Service\\EmployerService.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\EmployerService.cs",
-              "RelativeToolTip": "PensionManagementApplication\\Service\\EmployerService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:32:54.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ContributionProcessService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\ContributionProcessService.cs",
-              "RelativeDocumentMoniker": "PensionManagementApplication\\Service\\ContributionProcessService.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\PensionManagementPresentation\\PensionManagementApplication\\Service\\ContributionProcessService.cs",
-              "RelativeToolTip": "PensionManagementApplication\\Service\\ContributionProcessService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T23:22:32.321Z"
             },
             {
               "$type": "Document",
@@ -784,8 +780,7 @@
               "RelativeToolTip": "PensionManagementApplication\\PensionManagementApplication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T22:08:02.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T22:08:02.093Z"
             },
             {
               "$type": "Document",
@@ -797,8 +792,7 @@
               "RelativeToolTip": "PensionManagementDomain\\PensionManagementDomain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T21:51:42.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T21:51:42.675Z"
             },
             {
               "$type": "Document",
@@ -810,8 +804,7 @@
               "RelativeToolTip": "PensionManagementInfrastructure\\PensionManagementInfrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T09:57:07.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T09:57:07.945Z"
             },
             {
               "$type": "Document",

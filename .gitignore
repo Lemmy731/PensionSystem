@@ -1,5 +1,9 @@
-﻿################################################################################
+﻿## Visual Studio
+.vs/
+# Ignore main config with secrets
+appsettings.json
+appsettings.Development.json
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/PensionManagementPresentation/appsettings.json
